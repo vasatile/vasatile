@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vasatile
 - 👀 I’m interested in ..building.
-- 🌱 I’m currently learning ..javascript.
+- 🌱 I’m currently learning  ...
 - 💞️ I’m looking to collaborate on .projects..
 - 📫 How to reach me ..@vasatileucee@gmail.com.
 
